@@ -95,9 +95,9 @@ body {
 
 @media (min-width: 180px) and (max-width: 540px){
     .mainFrame{
-        top: 53%;
+        top: 52%;
         width: 92vw;
-        height: 92vh;
+        height: 90vh;
     }
 }
 
